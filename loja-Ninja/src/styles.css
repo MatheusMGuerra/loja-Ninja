@@ -48,9 +48,15 @@ table {
     margin: auto;
     padding: 0.6rem;
 }
+/* fonte ninja */
+@font-face {
+    font-family: 'fonte-naruto';
+    src: url('assets/njnaruto.ttf') format('truetype');
+}
 /* Variáveis */
 :root {
-    --amarelo:#FAE819;
+    --amarelo:#FCD219;
     --laranja:#FA8619;
-    --
+    --azul:#000098;
+    --naruto:'fonte-naruto'
 }
